@@ -4,16 +4,16 @@ End-to-end data analysis project exploring customer shopping patterns, revenue d
 
 ## 📊 Project Overview
 
-This project analyzes 3,900 customer transactions to uncover revenue drivers, customer segments, and shopping behavior patterns providing actionable insights for business decision-making.
+This project analyzes 3,900 customer transactions to uncover revenue drivers, customer segments, and shopping behavior patterns — providing actionable insights for business decision-making.
 
 **Tools:** Python (Pandas) | SQL Server | Power BI (DAX) | Excel
 
 ## 🔑 Key Insights
 
-- **Loyal customers (79.9% of customer base) drive the majority of revenue**, contributing $84K in Clothing alone retention strategy should be a priority over acquisition.
+- **Loyal customers (79.9% of customer base) drive the majority of revenue**, contributing $84K in Clothing alone — retention strategy should be a priority over acquisition.
 - **Discount campaigns show minimal ROI**: customers without discounts spend only $0.85 more on average than those with discounts, suggesting current discount strategy may not be cost-effective.
-- **Clothing is the top category (44.7% of total revenue / $104K)**, while Outerwear is the lowest performer (7.9% / $19K) indicating a clear opportunity for targeted marketing on Outerwear.
-- Revenue is nearly evenly distributed across age groups ($55K–$62K), showing no single demographic dominates broad-based marketing appeal.
+- **Clothing is the top category (44.7% of total revenue / $104K)**, while Outerwear is the lowest performer (7.9% / $19K) — indicating a clear opportunity for targeted marketing on Outerwear.
+- Revenue is nearly evenly distributed across age groups ($55K–$62K), showing no single demographic dominates — broad-based marketing appeal.
 - Fall season shows slightly higher revenue across most categories, useful for inventory planning.
 
 ## 🛠️ Process
@@ -38,18 +38,13 @@ This project analyzes 3,900 customer transactions to uncover revenue drivers, cu
 customer-shopping-behavior-analysis/
 │
 ├── README.md
-├── notebook/
-│   └── Analyse_Customer_Shopping_Behavior.ipynb
-├── sql/
-│   └── Customer_Behaviour.sql
-├── powerbi/
-│   └── screenshots/
-│       ├── page1_menu.png
-│       ├── page2_revenue_sales.png
-│       ├── page3_customer_intelligence.png
-│       └── page4_shopping_behaviour.png
-└── data/
-    └── sample_data.csv
+├── Analyse Customer Shopping Behavior.ipynb
+├── Customer_Behaviour.sql
+├── customers_pehaviour2.pbix
+├── customershoppingbehavior.csv
+├── Page1_Revenue & Sales Performance.png
+├── Page2_Customer Intelligence.png
+└── Page3_Shopping Behaviour.png
 ```
 
 ## 🚀 How to Reproduce
@@ -63,5 +58,5 @@ customer-shopping-behavior-analysis/
 
 **Bahija Babzine** — Data Analyst | Power BI Developer  
 📧 bahijababezine@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/bahija-babzine)  
+🔗 [LinkedIn](https://www.linkedin.com/in/bahija-babzine-a37285207/)  
 🔗 [GitHub](https://github.com/babzine1999)
